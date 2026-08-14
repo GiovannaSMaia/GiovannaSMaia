@@ -19,7 +19,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
-Ou, em formato de badges (shields.io):
+Ou, em formato de badges (shields.io): -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,14 +42,14 @@ Ou, em formato de badges (shields.io):
 
 ---
 
-### 📊 Estatísticas do GitHub
+<!--### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
-</p>
+</p> --!>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=seu-usuario&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -61,7 +61,7 @@ Ou, em formato de badges (shields.io):
   <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
+--- -->
 
 ### 🌐 Redes Sociais e Contato
 
